@@ -1,6 +1,14 @@
-👋 🌎
-
-<img alt="GitHub status" src="https://img.shields.io/badge/Compiling-my%20code%20is%20compiling-blue">
+<p>
+  <a href="https://rogertm.dev">
+    <img alt="Website" src="https://img.shields.io/website?label=rogertm.dev&style=for-the-badge&url=https%3A%2F%2Frogertm.dev">
+  </a>  
+  <a href="https://twitter.com/roger213tm">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/roger213tm?color=informational&style=for-the-badge">
+  </a>
+  <a href="https://profile.codersrank.io/user/rogertm/">
+    <img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Frogertm%2Frogertm%2Fmain%2Fcodersrank.json">
+  </a>
+</p>
 
 Mi nombre es RogerTM, soy desarrollador web y me he especializado en el trabajo con WordPress y Laravel, y trato de dominar todo el ecosistema al rededor de estas tecnologías.
 
