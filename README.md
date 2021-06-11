@@ -1,44 +1,18 @@
-<p>
-  <a href="https://rogertm.dev">
-    <img alt="Website" src="https://img.shields.io/website?label=rogertm.dev&style=for-the-badge&url=https%3A%2F%2Frogertm.dev">
-  </a>  
-  <a href="https://twitter.com/roger213tm">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/roger213tm?color=informational&style=for-the-badge">
-  </a>
-  <a href="https://profile.codersrank.io/user/rogertm/">
-    <img alt="Custom badge" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fraw.githubusercontent.com%2Frogertm%2Frogertm%2Fmain%2Fcodersrank.json">
-  </a>
-</p>
+# Hola, soy RogerTM 👋🏻
 
-Mi nombre es RogerTM, soy desarrollador web y me he especializado en el trabajo con WordPress y Laravel, y trato de dominar todo el ecosistema al rededor de estas tecnologías.
+Tengo más de 15 años de experiencia como desarrollador web. He trabajado por unos 10 años con **WordPress**, aunque también he tenido experiencias en varios proyectos con **Laravel**.
 
-Como buen entuciasta del software libre, soy usuario de GNU/Linux además de aprendíz de SysAdmin
+Debido a mi formación **autodidacta**, he tratado de adentrarme en el ecosistema que se genera al rededor de una página web y nutrirme de él, por tanto me considero **Full Stack Web Developer**.
 
-### Herramientas que uso a diario
+Soy amante del **Software Libre** y el **Conocimiento Libre**, y esa es una de las razones por las que he decidido crear mi **[Blog](https://rogertm.dev/)**, para compartir con toda la **comunidad** el conocimiento que de ella he recibido.
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-plain.svg" alt="Linux" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/firefox/firefox-plain.svg" alt="Firefox" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/apache/apache-plain.svg" alt="Apache" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" alt="GitHub" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/gitlab/gitlab-original.svg" alt="GitLab" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ssh/ssh-original-wordmark.svg" alt="SSH" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/google/google-original.svg" alt="Google" width="20" height="20">
+En mis ratos libre suelo hacer **ciclismo**, **excursionismo** y soy aficionado a la **fotografía**.
 
-### Tecnologías que prefiero
+## Tecnologías
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/php.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/wordpress.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/bootstrap.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/html5.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/css3.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/sass.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/javascript.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/nodedotjs.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/laravel.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/composer.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/apache.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/mysql.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/linux.svg" height="32" width="32">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/ubuntu.svg" height="32" width="32">
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="Javascript" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="Sass" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="Vue" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="NPM" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-plain.svg" alt="PHP" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain.svg" alt="Laravel" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="20" height="20"> <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="Git" width="20" height="20">
+## Redes Sociales
+<a href="https://twitter.com/roger213tm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/twitter.svg" height="32" width="32"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rogertm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg" height="32" width="32"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/rogertm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/gitlab.svg" height="32" width="32"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/rogertm"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/codersrank.svg" height="32" width="32"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.digitalocean.com/?refcode=00052a20b756&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/digitalocean.svg" height="32" width="32"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/photos.rogertm/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/instagram.svg" height="32" width="32"></a>
 
-### Hobbies
-En mis tiempos libres me dedico a hacer excursionismo, ciclismo y soy aficionado a la fotografía
-
-### Estadísticas
-<img src="https://github-readme-stats.vercel.app/api?username=rogertm&show_icons=true&theme=tokyonight" align="top"> <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rogertm&layout=compact&theme=tokyonight" align="top">
-
-<!--
-**rogertm/rogertm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Echa un vistazo a mi Blog
+https://rogertm.dev/
