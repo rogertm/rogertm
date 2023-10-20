@@ -65,7 +65,7 @@ Profesor de cursos básicos de computación.
 - HTML y CSS
 - PHP
 
-## Proyectos
+## Proyectos personales
 
 ### [WASP 🐝 &bull; Woew! Another starter plugin](https://github.com/themingisprose/wasp).
 
@@ -87,12 +87,12 @@ Este repositorio contiene un pequeño script de `bash` diseñado para ayudar a a
 
 ## Idiomas
 
-- Español
-- Inglés &bull; [EFSET English Certificate 57/100 (B2 Upper Intermediate)](https://www.efset.org/cert/jYRNnw).
+- Español (Nativo).
+- Inglés. [EFSET English Certificate 57/100 (B2 Upper Intermediate)](https://www.efset.org/cert/jYRNnw).
 
 ## Tecnologías
 
-<img src="https://cdn.simpleicons.org/php" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/json" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wordpress" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/woocommerce" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vue.js" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/npm" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/composer" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ubuntu" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnometerminal" height="24" width="24">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apache" height="24" width="24">
+<img src="https://cdn.simpleicons.org/php" height="24" width="24" title="PHP">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript" height="24" width="24" title="JavaScrip">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" height="24" width="24" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3" height="24" width="24" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass" height="24" width="24" title="SASS">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" height="24" width="24" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/phpmyadmin" height="24" width="24" title="phpMyAdmin">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/json" height="24" width="24" title="JSON">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git" height="24" width="24" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wordpress" height="24" width="24" title="WordPress">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/woocommerce" height="24" width="24" title="WooCommerce">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel" height="24" width="24" title="Laravel">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap" height="24" width="24" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vue.js" height="24" width="24" title="Vue.JS">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/npm" height="24" width="24" title="NPM">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/composer" height="24" width="24" title="Composer">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" height="24" width="24" title="Linux">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ubuntu" height="24" width="24" title="Ubuntu">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnometerminal" height="24" width="24" title="Gnome Terminal">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apache" height="24" width="24" title="Apache">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zoho" height="24" width="24" title="Zoho">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/asana" height="24" width="24" title="Asana">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman" height="24" width="24" title="Postman">
 
 ## Redes Sociales
 
