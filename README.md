@@ -24,4 +24,4 @@ En mis ratos libre suelo hacer **ciclismo**, **excursionismo** y soy aficionado 
 
 ## CV
 
-📑 Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](Resume.md). 
+📑 Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](cucoders_data/resume.md). 
