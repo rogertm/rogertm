@@ -21,3 +21,9 @@ Simple and lightweight WordPress plugin. It will show a small advertisement "**I
 ## [WP Setup](https://github.com/rogertm/wp-setup)
 
 Este repositorio contiene un pequeño script de `bash` diseñado para ayudar a acelerar el desarrollo local de WordPress aprovechando [WP-CLI](https://wp-cli.org) para realizar instrucciones de configuración comunes, como la creación  de bases de datos, descarga, instalación y configuración de WordPress, listo para el desarrollo.
+
+## [WPPF](https://github.com/themingisprose/wppf)
+
+**WPPF** es un sencillo plugin que te ayudará a generar contenido *falso* en tus proyectos en desarrollo.
+
+Útil para cuando estás comenzando a desarrollar un proyecto y necesitas generar una X cantidad de contenido en tu sitio y no tienes tiempo de hacerlo a mano (osea, nunca).
