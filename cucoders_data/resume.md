@@ -12,15 +12,21 @@
 
 ## Sobre mi
 
-Tengo más de 15 años de experiencia como desarrollador web. He trabajado por unos 10 años con **WordPress**, aunque también he tenido experiencias en varios proyectos con **Laravel**.
+Soy desarrollador web con más de 15 años de experiencia, especializado en WordPress y con trayectoria en proyectos basados en Laravel. A lo largo de mi carrera he desarrollado soluciones web a medida, plugins desde cero y funcionalidades personalizadas, además de integrar APIs y optimizar experiencias orientadas al usuario.
 
-Debido a mi formación **autodidacta**, he tratado de adentrarme en el ecosistema que se genera al rededor de una página web y nutrirme de él, por tanto me considero **Full Stack Web Developer**.
+Domino en profundidad el Core de WordPress y tengo experiencia trabajando sobre su arquitectura para crear extensiones robustas, mantenibles y adaptadas a necesidades concretas. También he desarrollado mi propio framework para WordPress, [WASP](https://github.com/rogertm/wasp), que utilizo como base para acelerar y estandarizar la creación de plugins.
 
-Soy amante del **Software Libre** y el **Conocimiento Libre**, y esa es una de las razones por las que he decidido crear mi **[Blog](https://rogertm.com/)**, para compartir con toda la **comunidad** el conocimiento que de ella he recibido.
+Mi perfil autodidacta me ha llevado a profundizar en distintas capas del ecosistema web, desde el backend hasta la interfaz, por lo que me siento cómodo trabajando como **Full Stack Web Developer**. Además, manejo **PHP orientado a objetos**, **JavaScript**, **integración con APIs**, **Git** y entornos **Linux**.
 
-En mis ratos libre suelo hacer **ciclismo**, **excursionismo** y soy aficionado a la **[fotografía](https://photos.rogertm.com/)**.
+Soy amante del **Software Libre** y el **Conocimiento Libre**, además de la creación de herramientas útiles para la comunidad. Esa filosofía también ha impulsado proyectos de desarrollo propios.
+
+Fuera del entorno profesional, disfruto del ciclismo, el excursionismo y la **[fotografía](https://rogertm.com/)**.
 
 ## Historial de empleo
+
+### Freelancer
+
+_Octubre 2023 - Actualidad_
 
 ### Ingenius Tecnologías. La Habana, Cuba.
 
@@ -67,17 +73,17 @@ Profesor de cursos básicos de computación.
 
 ## Proyectos personales
 
-### [WASP 🐝 &bull; Woew! Another starter plugin](https://github.com/themingisprose/wasp).
+### [WASP 🐝 &bull; Woew! Another starter plugin](https://github.com/rogertm/wasp).
 
 **WASP** es un _starter_ plugin que facilita el desarrollo con WordPress. Con él podrás crear tus propios plugins de manera rápida, fácil y sencilla. **WASP** Puede ser usado como framework para crear Custom Post Types, Taxonomías, Meta Boxes, Páginas de administración, Terms Meta, Users Meta, etc.
 
 **WASP** provee un conjunto de clases a las que solo le debes pasar un grupo de parámetros para crear los elementos que componen tu plugin. 
 
-### [Theming &bull; WordPress Starter Theme](https://github.com/themingisprose/theming).
+### [Theming &bull; WordPress Starter Theme](https://github.com/rogertm/theming).
 
 **Theming** es un _starter_ theme para WordPress, sencillo y ligero, basado en **Bootstrap v5**.
 
-### [It Works!](https://github.com/themingisprose/itworks)
+### [It Works!](https://github.com/rogertm/itworks)
 
 Simple and lightweight WordPress plugin. It will show a small advertisement "**It Works!**" on your site.
 
@@ -85,7 +91,7 @@ Simple and lightweight WordPress plugin. It will show a small advertisement "**I
 
 Este repositorio contiene un pequeño script de `bash` diseñado para ayudar a acelerar el desarrollo local de WordPress aprovechando [WP-CLI](https://wp-cli.org) para realizar instrucciones de configuración comunes, como la creación  de bases de datos, descarga, instalación y configuración de WordPress, listo para el desarrollo.
 
-### [WPPF](https://github.com/themingisprose/wppf)
+### [WPPF](https://github.com/rogertm/wppf)
 
 **WPPF** es un sencillo plugin que te ayudará a generar contenido *falso* en tus proyectos en desarrollo.
 
@@ -95,12 +101,3 @@ Este repositorio contiene un pequeño script de `bash` diseñado para ayudar a a
 
 - Español (Nativo).
 - Inglés. [EFSET English Certificate 57/100 (B2 Upper Intermediate)](https://www.efset.org/cert/jYRNnw).
-
-## Tecnologías
-
-<img src="https://cdn.simpleicons.org/php" height="24" width="24" title="PHP">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript" height="24" width="24" title="JavaScrip">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5" height="24" width="24" title="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3" height="24" width="24" title="CSS3">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass" height="24" width="24" title="SASS">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql" height="24" width="24" title="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/phpmyadmin" height="24" width="24" title="phpMyAdmin">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/json" height="24" width="24" title="JSON">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/git" height="24" width="24" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/wordpress" height="24" width="24" title="WordPress">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/woocommerce" height="24" width="24" title="WooCommerce">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/laravel" height="24" width="24" title="Laravel">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap" height="24" width="24" title="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/vue.js" height="24" width="24" title="Vue.JS">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/npm" height="24" width="24" title="NPM">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/composer" height="24" width="24" title="Composer">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/linux" height="24" width="24" title="Linux">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/ubuntu" height="24" width="24" title="Ubuntu">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnometerminal" height="24" width="24" title="Gnome Terminal">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/apache" height="24" width="24" title="Apache">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/zoho" height="24" width="24" title="Zoho">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/asana" height="24" width="24" title="Asana">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman" height="24" width="24" title="Postman">
-
-## Redes Sociales
-
-<a href="https://twitter.com/roger213tm"><img src="https://cdn.simpleicons.org/x" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rogertm/"><img src="https://cdn.simpleicons.org/linkedin" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rogertm"><img src="https://cdn.simpleicons.org/github" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitlab.com/rogertm"><img src="https://cdn.simpleicons.org/gitlab" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://profile.codersrank.io/user/rogertm"><img src="https://cdn.simpleicons.org/codersrank" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.digitalocean.com/?refcode=00052a20b756&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=CopyPaste"><img src="https://cdn.simpleicons.org/digitalocean" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/photos.rogertm/"><img src="https://cdn.simpleicons.org/instagram" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gravatar.com/rogertm"><img src="https://cdn.simpleicons.org/gravatar" height="24" width="24"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linktr.ee/rogertm"><img src="https://cdn.simpleicons.org/linktree" height="24" width="24"></a>
-
