@@ -9,3 +9,7 @@ Mi perfil autodidacta me ha llevado a profundizar en distintas capas del ecosist
 Soy amante del **Software Libre** y el **Conocimiento Libre**, además de la creación de herramientas útiles para la comunidad. Esa filosofía también ha impulsado proyectos de desarrollo propios.
 
 Fuera del entorno profesional, disfruto del ciclismo, el excursionismo y la **[fotografía](https://rogertm.com/)**.
+
+### CV
+
+Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](CV.md). 
