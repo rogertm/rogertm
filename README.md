@@ -12,4 +12,4 @@ Fuera del entorno profesional, disfruto del ciclismo, el excursionismo y la **[f
 
 ### CV
 
-Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](CV.md). 
+Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](https://rogertm.github.io/). 
