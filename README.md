@@ -1,15 +1,10 @@
 # Hola, soy RogerTM 👋🏻
 
-Soy desarrollador web con más de 15 años de experiencia, especializado en WordPress y con trayectoria en proyectos basados en Laravel. A lo largo de mi carrera he desarrollado soluciones web a medida, plugins desde cero y funcionalidades personalizadas, además de integrar APIs y optimizar experiencias orientadas al usuario.
+Desarrollador Full Stack con más de 15 años de experiencia en desarrollo web y de aplicaciones. Experto en PHP, WordPress, Laravel, HTML, CSS y JavaScript, con sólidos conocimientos en tecnologías front-end y back-end. Con capacidad demostrada para desarrollar soluciones web y plugins personalizados desde cero. Busco aprovechar mi amplia experiencia en desarrollo para contribuir a proyectos innovadores e impulsar la excelencia técnica.
 
-Domino en profundidad el Core de WordPress y tengo experiencia trabajando sobre su arquitectura para crear extensiones robustas, mantenibles y adaptadas a necesidades concretas. También he desarrollado mi propio framework para WordPress, [WASP](https://github.com/rogertm/wasp), que utilizo como base para acelerar y estandarizar la creación de plugins.
+### Skills
 
-Mi perfil autodidacta me ha llevado a profundizar en distintas capas del ecosistema web, desde el backend hasta la interfaz, por lo que me siento cómodo trabajando como **Full Stack Web Developer**. Además, manejo **PHP orientado a objetos**, **JavaScript**, **integración con APIs**, **Git** y entornos **Linux**.
-
-Soy amante del **Software Libre** y el **Conocimiento Libre**, además de la creación de herramientas útiles para la comunidad. Esa filosofía también ha impulsado proyectos de desarrollo propios.
-
-Fuera del entorno profesional, disfruto del ciclismo, el excursionismo y la **[fotografía](https://rogertm.com/)**.
+`PHP` `POO` `MySQL` `HTML` `JavaScript` `CSS` `SCSS` `Responsive Design` `JSON` `Git` `WordPress` `WP-CLI` `Laravel` `Bootstrap` `Ruby` `NPM` `Composer` `Ubuntu` `Linux` `Bash` `REST API` `MVC`
 
 ### CV
-
 Puedes ver un resumen sobre mi historial de de empleo, proyectos personales y otros datos en mi [_Curriculum Vitae_](https://rogertm.github.io/). 
